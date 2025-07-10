@@ -58,7 +58,7 @@ n8n, FFMPEG, yt-dlp, Python scripting, WooCommerce API, PDFKit, Chart-img API
 ## 📈 GitHub Stats
 
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martin-thouret&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-thouret&layout=compact&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-thouret)](https://github.com/martin-thouret/github-readme-stats)
 
 ---
 
